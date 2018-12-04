@@ -1,6 +1,7 @@
-# Vsdd7
+# Vitual Scroll y Drag and Drop con Angular 7
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.1.
+es un proyecto sencillo utilizando angular 7 y su nueva caracteristica de virtual scroll y drag and drop 
 
 ## Development server
 
